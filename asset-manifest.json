@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EventOrganizer/static/css/main.a617e044.chunk.css",
+    "main.js": "/EventOrganizer/static/js/main.2d70f68b.chunk.js",
+    "main.js.map": "/EventOrganizer/static/js/main.2d70f68b.chunk.js.map",
+    "runtime-main.js": "/EventOrganizer/static/js/runtime-main.4f4bd65c.js",
+    "runtime-main.js.map": "/EventOrganizer/static/js/runtime-main.4f4bd65c.js.map",
+    "static/js/2.1c289dcf.chunk.js": "/EventOrganizer/static/js/2.1c289dcf.chunk.js",
+    "static/js/2.1c289dcf.chunk.js.map": "/EventOrganizer/static/js/2.1c289dcf.chunk.js.map",
+    "static/js/3.156f57b6.chunk.js": "/EventOrganizer/static/js/3.156f57b6.chunk.js",
+    "static/js/3.156f57b6.chunk.js.map": "/EventOrganizer/static/js/3.156f57b6.chunk.js.map",
+    "index.html": "/EventOrganizer/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/EventOrganizer/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1c289dcf.chunk.js.LICENSE.txt": "/EventOrganizer/static/js/2.1c289dcf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/EventOrganizer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f4bd65c.js",
+    "static/js/2.1c289dcf.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2d70f68b.chunk.js"
+  ]
+}
